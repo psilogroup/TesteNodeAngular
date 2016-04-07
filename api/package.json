@@ -1,0 +1,11 @@
+{
+  "name": "teste_nodejs_angular",
+  "description": "Teste simples em NodeJS e AngularJS",
+  "license": "",
+  "readme": "",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  }
+}
